@@ -31,7 +31,7 @@ intro:
       text: |-
         
         *ONLINE EDUCATIONAL SUPPORT*
-        http://www.ocwconsortium.org/
+        {{http://www.ocwconsortium.org/}}
         http://www.ocwconsortium.org/en/courses/ocwsites
         http://ocw.tufts.edu -Tuft University
         http://ocw.upm.es -Univesidad Politechnica, Madrid
