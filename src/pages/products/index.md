@@ -10,10 +10,10 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/undraw_transfer_files_6tns.svg
+    - image: /img/undraw_choice_9385.png
       text: |-
         
-        *BOOK SITES*
+        BOOK SITES
         www.bookboon.com
         http://ebookee.org
         http://sharebookfree.com
@@ -39,7 +39,7 @@ intro:
         http://ocw.usu.edu/ -Utah State University
         http://open.umich.edu/ -University of Michigan
         http://ocw.nd.edu/ -Nore Dame University
-    - image: /img/undraw_youtube_tutorial_2gn3.svg
+    - image: /img/undraw_instruction_manual_cyae.png
       text: |-
         
         *_SOME USEFUL  WEBSITES  ONLINE EDUCATIONAL SUPPORT_*
@@ -52,7 +52,7 @@ intro:
         www.academicjournals.org 
         codeacademy.org
         youtube.com/education
-    - image: /img/undraw_experts3_3njd.svg
+    - image: /img/undraw_making_art_759c.svg
       text: |-
         
         *ANSWERS TO QUESTIONS*
